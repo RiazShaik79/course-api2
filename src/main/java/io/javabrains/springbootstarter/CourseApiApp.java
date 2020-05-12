@@ -13,8 +13,8 @@ public class CourseApiApp {
 		SpringApplication.run(CourseApiApp.class, args);
 	}
 	
-	protected SpringApplicationBuilder configure(SpringApplicationBuilder builder) {
-		return builder.sources(CourseApiApp.class);
-	} 
+/*	protected SpringApplicationBuilder configure(SpringApplicationBuilder builder) {
+		return builder.sources(CourseApiApp.class); 
+	} */
 
 }
